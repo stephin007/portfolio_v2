@@ -74,7 +74,7 @@
 
 /* Show menu */
     .show-menu{
-        bottom: 10;
+        bottom: 0;
     }
 
     .nav__list{
@@ -88,7 +88,7 @@
     }
 
     .nav__close{
-        position: absol ute;
+        position: absolute;
         right: 1.3rem;
         bottom: .5rem;
         font-size: 1.5rem;
