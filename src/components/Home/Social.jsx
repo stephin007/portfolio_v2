@@ -17,6 +17,13 @@ const Social = () => {
       >
         <i className='uil uil-github-alt'></i>
       </a>
+      <a
+        href='https://blog.stephinreji.me/'
+        className='home__social-icon'
+        target='_blank'
+      >
+        <i class='uil uil-fire'></i>
+      </a>
     </div>
   );
 };
