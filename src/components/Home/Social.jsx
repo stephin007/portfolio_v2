@@ -7,6 +7,7 @@ const Social = () => {
         href='https://www.linkedin.com/in/stephinreji/'
         className='home__social-icon'
         target='_blank'
+        rel='noreferrer'
       >
         <i class='uil uil-linkedin-alt'></i>
       </a>
@@ -14,6 +15,7 @@ const Social = () => {
         href='https://github.com/stephin007'
         className='home__social-icon'
         target='_blank'
+        rel='noreferrer'
       >
         <i className='uil uil-github-alt'></i>
       </a>
@@ -21,6 +23,7 @@ const Social = () => {
         href='https://blog.stephinreji.me/'
         className='home__social-icon'
         target='_blank'
+        rel='noreferrer'
       >
         <i class='uil uil-fire'></i>
       </a>
