@@ -1,4 +1,4 @@
-import { Navbar, Home, About } from "./components";
+import { Navbar, Home, About, Skills } from "./components";
 import "./App.css";
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
       <main className='main'>
         <Home />
         <About />
+        <Skills />
       </main>
     </>
   );
