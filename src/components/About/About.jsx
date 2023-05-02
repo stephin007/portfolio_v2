@@ -14,10 +14,13 @@ const About = () => {
         <div className='about__data'>
           <Info />
           <p className='about__description'>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Perspiciatis saepe aperiam perferendis neque ducimus voluptatem fuga
-            rem ut pariatur delectus sequi ad est natus excepturi molestias aut,
-            error recusandae doloremque.
+            A proficient Solution Engineer with expertise in web development,
+            adept at crafting and executing effective web solutions that meet
+            business needs. Proficient in programming languages such as HTML,
+            CSS, JavaScript, and React, I offer technical guidance and support
+            throughout the development cycle. My analytical skills and
+            meticulous approach guarantee on-time and on-budget project
+            completion.
           </p>
           <a download='' href={CV} className='button button--flex'>
             Download Resume
