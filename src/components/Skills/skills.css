@@ -71,7 +71,8 @@
 }
   @media screen and (max-width: 576px) {
     .skills__group{
-        justify-content: flex-start;
+        display: flex;
+        justify-content: space-between;
     }
     .skills__container{
         grid-template-columns: 1fr;
@@ -83,7 +84,10 @@
   
   /* For small devices */
   @media screen and (max-width: 320px) {
-    
+    .skills__group{
+        display: flex;
+        justify-content:center;
+    }
     .skills__box{
         column-gap: 1.25rem;
     }
