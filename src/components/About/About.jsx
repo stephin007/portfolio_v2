@@ -14,13 +14,19 @@ const About = () => {
         <div className='about__data'>
           <Info />
           <p className='about__description'>
-            A proficient Solution Engineer with expertise in web development,
-            adept at crafting and executing effective web solutions that meet
-            business needs. Proficient in programming languages such as HTML,
-            CSS, JavaScript, and React, I offer technical guidance and support
-            throughout the development cycle. My analytical skills and
-            meticulous approach guarantee on-time and on-budget project
-            completion.
+            Welcome to my personal portfolio! I'm so glad you stopped by to
+            learn more about me and my work. This site is a collection of my
+            past projects and experiences, as well as a showcase of my skills
+            and expertise. Whether you're a potential employer, collaborator, or
+            just curious about my background, I hope you'll find something here
+            that interests you. I've had the opportunity to work on a wide range
+            of projects that have shaped my skills and passions. Please take
+            your time to explore the site, and don't hesitate to reach out if
+            you have any questions or opportunities for collaboration. I'm
+            always looking for new challenges and ways to grow as a
+            professional, and I believe that every project is a chance to learn
+            and improve. Thank you for visiting my site, and I hope to hear from
+            you soon!
           </p>
           <a download='' href={CV} className='button button--flex'>
             Download Resume

@@ -1,17 +1,16 @@
-import Frontend from "./Frontend";
-import Backend from "./Backend";
+import TechSkills from "./TechSkills";
+import CustomerSkills from "./CustomerSkills";
 
 import "./skills.css";
 
 const Skills = () => {
   return (
     <section className='skills section' id='skills'>
-      <h2 className='section__title'>Skills</h2>
-      <span className='section__subtitle'>My Technical Level</span>
+      <h2 className='section__title skills__section'>Skills</h2>
 
       <div className='skills__container container grid'>
-        <Frontend />
-        <Backend />
+        <TechSkills />
+        <CustomerSkills />
       </div>
     </section>
   );

@@ -1,14 +1,15 @@
-const Backend = () => {
+const TechSkills = () => {
   return (
     <div className='skills__content'>
-      <h3 className='skills__title'>Backend Developer</h3>
+      <h3 className='skills__title'>Technical Skills</h3>
+
       <div className='skills__box'>
         <div className='skills__group'>
           <div className='skills__data'>
             <i className='bx bx-badge-check'></i>
             <div>
               <h3 className='skills__name'>HTML</h3>
-              <span className='skills__level'>Basic</span>
+              <span className='skills__level'>Intermediate</span>
             </div>
           </div>
 
@@ -16,7 +17,7 @@ const Backend = () => {
             <i className='bx bx-badge-check'></i>
             <div>
               <h3 className='skills__name'>CSS</h3>
-              <span className='skills__level'>Advanced</span>
+              <span className='skills__level'>Intermediate</span>
             </div>
           </div>
 
@@ -24,7 +25,7 @@ const Backend = () => {
             <i className='bx bx-badge-check'></i>
             <div>
               <h3 className='skills__name'>Javascript</h3>
-              <span className='skills__level'>Intermediate</span>
+              <span className='skills__level'>Basic</span>
             </div>
           </div>
 
@@ -49,4 +50,4 @@ const Backend = () => {
   );
 };
 
-export default Backend;
+export default TechSkills;

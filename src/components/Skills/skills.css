@@ -1,3 +1,7 @@
+.skills__section{
+    margin-bottom: 50px;
+}
+
 .skills__container{
     grid-template-columns: repeat(2, 475px);
     column-gap: 3rem;
