@@ -5,6 +5,7 @@ import {
   Skills,
   Services,
   Qualifications,
+  Contact,
 } from "./components";
 import "./App.css";
 
@@ -18,6 +19,7 @@ function App() {
         <Skills />
         <Services />
         <Qualifications />
+        <Contact />
       </main>
     </>
   );
