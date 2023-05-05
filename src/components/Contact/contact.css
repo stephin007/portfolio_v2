@@ -23,9 +23,16 @@
     background-color: var(--container-color);
     border: 1px solid rgba(0,0, 0, 0.1);
     box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+  border-radius: 10px;
+  padding: 20px;
     padding: 1rem;
     border-radius: 0.75rem;
     text-align: center;
+    transition: 0.3s;
+}
+
+.contact__card:hover{
+    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 .contact__card-icon{
