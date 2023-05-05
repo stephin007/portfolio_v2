@@ -6,6 +6,7 @@ import {
   Services,
   Qualifications,
   Contact,
+  Footer,
 } from "./components";
 import "./App.css";
 
@@ -20,6 +21,7 @@ function App() {
         <Services />
         <Qualifications />
         <Contact />
+        <Footer />
       </main>
     </>
   );
