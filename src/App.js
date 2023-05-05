@@ -1,4 +1,4 @@
-import { Navbar, Home, About, Skills } from "./components";
+import { Navbar, Home, About, Skills, Services } from "./components";
 import "./App.css";
 
 function App() {
@@ -9,6 +9,7 @@ function App() {
         <Home />
         <About />
         <Skills />
+        <Services />
       </main>
     </>
   );
