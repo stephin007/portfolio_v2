@@ -7,7 +7,9 @@
 .services__content{
     position: relative;
     border: 1px solid rgba(0,0,0,.1);
+    box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
     background-color: var(--container-color);
+    border-radius: 1.25rem;
     padding: 6rem 0 2rem 2.5rem;
 }
 .service__icon  {

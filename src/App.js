@@ -1,4 +1,11 @@
-import { Navbar, Home, About, Skills, Services } from "./components";
+import {
+  Navbar,
+  Home,
+  About,
+  Skills,
+  Services,
+  Qualifications,
+} from "./components";
 import "./App.css";
 
 function App() {
@@ -10,6 +17,7 @@ function App() {
         <About />
         <Skills />
         <Services />
+        {/* <Qualifications /> */}
       </main>
     </>
   );
