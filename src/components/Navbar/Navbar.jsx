@@ -9,7 +9,8 @@ const Navbar = () => {
   return (
     <header className='header'>
       <nav className='nav container'>
-        <a href='' className='nav__logo'>
+        {/* eslint-disable-next-line */}
+        <a href='#' className='nav__logo'>
           Stephin Reji
         </a>
         <div className={toggle ? "nav__menu show-menu" : "nav__menu"}>
@@ -29,11 +30,11 @@ const Navbar = () => {
                 <i className='ui uil-file-alt nav__icon'></i> Skills
               </a>
             </li>
-            <li className='nav__item'>
+            {/* <li className='nav__item'>
               <a href='#portfolio' className='nav__link'>
                 <i className='ui uil-scenery nav__icon'></i> Portfolio
               </a>
-            </li>
+            </li> */}
             <li className='nav__item'>
               <a href='#contact' className='nav__link'>
                 <i className='ui uil-message nav__icon'></i> Contact

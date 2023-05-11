@@ -48,11 +48,15 @@ const Qualifications = () => {
           >
             <div className='qualification__data'>
               <div>
-                <h3 className='qualification__title'>Web Design</h3>
-                <span className='qualification__subtitle'>Spain Institute</span>
+                <h3 className='qualification__title'>
+                  B.Tech in Electronics and Communication
+                </h3>
+                <span className='qualification__subtitle'>
+                  NIET, Greater Noida
+                </span>
                 <div className='qualification__calendar'>
                   <i className='uil uil-calendar-alt'></i>
-                  2021 - Present
+                  2016 - 2020
                 </div>
               </div>
               <div>
@@ -70,45 +74,33 @@ const Qualifications = () => {
               </div>
 
               <div>
-                <h3 className='qualification__title'>Art Director</h3>
-                <span className='qualification__subtitle'>Spain Institute</span>
+                <h3 className='qualification__title'>
+                  Senior Secondary Education(XI-XII)
+                </h3>
+                <span className='qualification__subtitle'>
+                  Assisi Convent School, Noida
+                </span>
                 <div className='qualification__calendar'>
                   <i className='uil uil-calendar-alt'></i>
-                  2020 - 2021
+                  2014 - 2016
                 </div>
               </div>
             </div>
 
             <div className='qualification__data'>
               <div>
-                <h3 className='qualification__title'>Web Development</h3>
-                <span className='qualification__subtitle'>Spain Institute</span>
+                <h3 className='qualification__title'>Secondary Education(X)</h3>
+                <span className='qualification__subtitle'>
+                  Assisi Convent Sr. Sec. School, Noida
+                </span>
                 <div className='qualification__calendar'>
                   <i className='uil uil-calendar-alt'></i>
-                  2018 - 2020
+                  2013 - 2014
                 </div>
               </div>
               <div>
                 <span className='qualification__rounder'></span>
                 <span className='qualification__line'></span>
-              </div>
-            </div>
-
-            <div className='qualification__data'>
-              <div></div>
-
-              <div>
-                <span className='qualification__rounder'></span>
-                <span className='qualification__line'></span>
-              </div>
-
-              <div>
-                <h3 className='qualification__title'>UI Expert</h3>
-                <span className='qualification__subtitle'>Spain Institute</span>
-                <div className='qualification__calendar'>
-                  <i className='uil uil-calendar-alt'></i>
-                  2027 - 2018
-                </div>
               </div>
             </div>
           </div>
@@ -122,13 +114,11 @@ const Qualifications = () => {
           >
             <div className='qualification__data'>
               <div>
-                <h3 className='qualification__title'>Product Designer</h3>
-                <span className='qualification__subtitle'>
-                  Microsoft - Spain
-                </span>
+                <h3 className='qualification__title'>Integration Lead</h3>
+                <span className='qualification__subtitle'>Certa,India</span>
                 <div className='qualification__calendar'>
                   <i className='uil uil-calendar-alt'></i>
-                  2021 - Present
+                  2022 - Present
                 </div>
               </div>
               <div>
@@ -146,29 +136,53 @@ const Qualifications = () => {
               </div>
 
               <div>
-                <h3 className='qualification__title'>UX Designer</h3>
-                <span className='qualification__subtitle'>
-                  Apple Inc - Spain
-                </span>
+                <h3 className='qualification__title'>Solution Engineer</h3>
+                <span className='qualification__subtitle'>Certa,India</span>
                 <div className='qualification__calendar'>
                   <i className='uil uil-calendar-alt'></i>
-                  2020 - 2021
+                  2021 - 2022
                 </div>
               </div>
             </div>
 
             <div className='qualification__data'>
               <div>
-                <h3 className='qualification__title'>Web Designer</h3>
-                <span className='qualification__subtitle'>Figma - Spain</span>
+                <h3 className='qualification__title'>
+                  Customer Success and QA
+                </h3>
+                <span className='qualification__subtitle'>
+                  Civil Machines Technologies, India
+                </span>
                 <div className='qualification__calendar'>
                   <i className='uil uil-calendar-alt'></i>
-                  2018 - 2020
+                  2019 - 2020
                 </div>
               </div>
               <div>
                 <span className='qualification__rounder'></span>
                 <span className='qualification__line'></span>
+              </div>
+            </div>
+
+            <div className='qualification__data'>
+              <div></div>
+
+              <div>
+                <span className='qualification__rounder'></span>
+                <span className='qualification__line'></span>
+              </div>
+
+              <div>
+                <h3 className='qualification__title'>
+                  Social Media Marketing (Intern)
+                </h3>
+                <span className='qualification__subtitle'>
+                  Bolt: IoT Platform,India
+                </span>
+                <div className='qualification__calendar'>
+                  <i className='uil uil-calendar-alt'></i>
+                  June 2019 - July 2019
+                </div>
               </div>
             </div>
           </div>

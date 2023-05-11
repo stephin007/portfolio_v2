@@ -3,7 +3,7 @@ import {
   Home,
   About,
   Skills,
-  Services,
+  // Services,
   Qualifications,
   Contact,
   Footer,
@@ -18,7 +18,7 @@ function App() {
         <Home />
         <About />
         <Skills />
-        <Services />
+        {/* <Services /> */}
         <Qualifications />
         <Contact />
         <Footer />
